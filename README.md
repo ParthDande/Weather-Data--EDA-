@@ -25,7 +25,8 @@ This dataset contains historical weather data for Nashik, with the following fea
 
 ### Key Findings
 
-- **Hottest Months:** Identified the months with the highest average temperatures.
+- **Hottest Months:** April and May observer the highest temperatue of Nashik
+- **Most Rainy Season:** July Observes the most rainfall
 - **Temperature Trends:** Observed a significant rise in average temperatures since the year 2000.
 
 ## Analysis
